@@ -1,0 +1,70 @@
+.Todo{
+	display: flex;
+	justify-content: center;
+	
+}
+
+.postArriba{
+
+}
+
+.logohtml i{
+	font-size: 50px;
+	margin: 5px;
+	padding: 5px;
+	position: absolute;
+	left: 750px;
+	top: -5px;
+}
+
+
+
+.datosPerfil{
+	display: flex;
+	flex-direction: column;
+
+}
+
+.datosPerfil h1{	
+	left: -120px;
+	font-size: 10px;
+	position: relative;
+}
+
+
+.opciones i{
+	font-size: 50px;
+	margin: 5px;
+	padding: 5px;
+	position: absolute;
+	left: 1140px;
+	top: -5px;
+}
+
+.reaccion{
+    font-size: 30px;
+	margin: 5px;
+	padding: 5px;
+	position: absolute;
+	left: 760px;
+	top: 450px;
+}
+
+.mostrar{
+	font-size: 10px;
+	margin: 5px;
+	padding: 5px;
+	position: absolute;
+	left: 760px;
+	top: 490px;
+
+}
+
+.historia{
+	font-size: 10px;
+	margin: 5px;
+	padding: 5px;
+	position: absolute;
+	left: 760px;
+	top: 530px;
+}
